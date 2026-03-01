@@ -1,0 +1,20 @@
+name: fluent
+description: "A Fluent, imperative, setter-based wrapper for the Flutter framework."
+version: 1.0.0
+homepage: "https://github.com/celdridge/fluent_flutter"
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
