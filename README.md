@@ -1,9 +1,9 @@
-# Fluent Flutter
+# Fluence 
 
 A Fluent, imperative, setter-based wrapper for the Flutter framework. 
 
 ## Imperitive Flutter
-Fluent Flutter aims to provide a more traditional "widget-as-an-object" API that allows for direct property manipulation without manual state management or deeply nested build methods.
+Fluence aims to provide a more traditional "widget-as-an-object" API that allows for direct property manipulation without manual state management or deeply nested build methods.
 
 ### Key Features
 *   **Imperative API**: Update UI components directly using setter methods.
