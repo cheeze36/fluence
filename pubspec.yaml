@@ -1,7 +1,7 @@
-name: fluent
+name: fluence
 description: "A Fluent, imperative, setter-based wrapper for the Flutter framework."
 version: 1.0.0
-homepage: "https://github.com/cheeze36/fluent"
+homepage: "https://github.com/cheeze36/fluence"
 
 environment:
   sdk: ^3.11.0
