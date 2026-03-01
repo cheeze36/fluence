@@ -1,7 +1,7 @@
 name: fluent
 description: "A Fluent, imperative, setter-based wrapper for the Flutter framework."
 version: 1.0.0
-homepage: "https://github.com/celdridge/fluent_flutter"
+homepage: "https://github.com/cheeze36/fluent"
 
 environment:
   sdk: ^3.11.0
