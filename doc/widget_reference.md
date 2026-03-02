@@ -1,4 +1,4 @@
-# Fluent Flutter Widget Reference Guide
+# Fluence Widget Reference Guide
 
 This guide provides a comprehensive overview of every imperative wrapper and layout tool available in the Fluent library.
 
