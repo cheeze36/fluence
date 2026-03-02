@@ -1,6 +1,6 @@
-# Fluent Flutter Architecture
+# Fluence Architecture
 
-Fluent Flutter is an imperative, setter-based wrapper layer for the Flutter framework. Its goal is to provide a more traditional "widget-as-an-object" API that allows for direct property manipulation without manual state management or nested build methods.
+Fluenceis an imperative, setter-based wrapper layer for the Flutter framework. Its goal is to provide a more traditional "widget-as-an-object" API that allows for direct property manipulation without manual state management or nested build methods.
 
 ## Core Concepts
 
