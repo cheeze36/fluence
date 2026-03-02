@@ -8,7 +8,7 @@ Import the Fluent library into your `main.dart` file:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:fluent/fluent.dart';
+import 'package:fluence/fluent.dart';
 ```
 
 ## 2. Define Your Shell
